@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Kiri
+title: Kiri 
 subtitle: ''
 description: ''
 keywords:
@@ -102,4 +102,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
+  repo:  http://kirby123-cmd.gitub.io/blogweb
+  branch: blogweb
+  message: First version
