@@ -103,5 +103,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   repo:  http://kirby123-cmd.gitub.io/blogweb
-  branch: blogweb
+  branch: master
   message: First version
